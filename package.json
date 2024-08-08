@@ -1,0 +1,18 @@
+{
+    "name": "testing-practice",
+    "version": "1.0.0",
+    "description": "Jest practice.",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest",
+        "watch": "jest --watch"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@babel/core": "^7.25.2",
+        "@babel/preset-env": "^7.25.3",
+        "babel-jest": "^29.7.0",
+        "jest": "^29.7.0"
+    }
+}
